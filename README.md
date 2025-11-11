@@ -46,4 +46,10 @@ This project will use the **MIT License**, allowing open collaboration and modif
 
 ---
 
+## 🔗 Related Repository
+This project builds upon [Amazon-Price-Alert](https://github.com/GaryniL/Amazon-Price-Alert), an open-source Python tool for tracking Amazon product prices.
+
+
+
+
 > “The best deals aren’t found — they’re detected.” 🕵️‍♂️💰
