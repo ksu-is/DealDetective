@@ -18,6 +18,10 @@
 - [ ] Repository creation, documentation, Python setup |
 - [ ] Web scraping logic & testing |
 - [ ] UI/UX interface development |
+- [x] Found related repository: [Amazon-Price-Alert](https://github.com/GaryniL/Amazon-Price-Alert)
+- [x] Forked to KSU-IS organization (DealDetective Team)
+- [ ] Tested the repo locally and documented setup issues
+
 
 ---
 
