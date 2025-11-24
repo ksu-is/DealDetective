@@ -31,3 +31,22 @@
 - Add data-storage capability (CSV or SQLite).  
 - Start working on alert/notification feature.
 
+## Sprint 2 — Completed Tasks
+
+- [x] Set up initial project structure
+- [x] Added scraper.py with HTML fetching
+- [x] Implemented Amazon price extraction
+- [x] Added URL normalization
+- [x] Added product title extraction
+- [x] Created working prototype in deal_detective.py
+- [x] Installed dependencies and tested script
+
+## Sprint 3 — Planned Tasks
+
+- [ ] Add support for multiple retailers (Walmart, Target, Best Buy)
+- [ ] Add price history tracking using a CSV or JSON file
+- [ ] Build a simple menu interface for multiple actions
+- [ ] Improve error handling and edge-case testing
+- [ ] Create a more modular scraper system for each site
+- [ ] Add unit tests for scraping functions
+

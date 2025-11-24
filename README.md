@@ -56,3 +56,19 @@ This project builds upon [Amazon-Price-Alert](https://github.com/GaryniL/Amazon-
 
 
 Update: Added short project summary for Sprint 1
+
+
+## Sprint 2 Progress Update
+
+During Sprint 2, the core prototype for DealDetective was developed and tested.  
+The following functionality is now working:
+
+- Accepts an Amazon product URL from the user
+- Automatically corrects URLs missing "https://"
+- Fetches product page HTML using requests
+- Extracts the product price
+- Extracts the product title (NEW)
+- Displays results in the terminal
+- Handles errors from invalid or unreachable URLs
+
+This prototype demonstrates the foundation of the final multi-site DealDetective tool.
