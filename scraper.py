@@ -37,3 +37,11 @@ def extract_amazon_price(html: str) -> str | None:
         return span.get_text(strip=True)
 
     return None
+
+
+def extract_amazon_title(html: str) -> str | None:
+    soup = BeautifulSoup(html, "html.parser")
+    title_tag = soup.find(id="productTitle")
+    if title_tag:
+        return title_tag.get_text(strip=True)
+    return None
