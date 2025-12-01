@@ -72,3 +72,6 @@ The following functionality is now working:
 - Handles errors from invalid or unreachable URLs
 
 This prototype demonstrates the foundation of the final multi-site DealDetective tool.
+
+### PPT Slide
+Deal Detective PPT Slide.pptx
