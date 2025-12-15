@@ -46,8 +46,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
-
-title = extract_amazon_title(html)
-if title:
-    print(f"🛒 Product: {title}")
